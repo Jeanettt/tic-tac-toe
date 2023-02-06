@@ -4,6 +4,7 @@
     "react-dom": "^18.0.0",
     "react-scripts": "^4.0.0"
   },
+  "homepage": "http://jeanettt.github.io/tic-tac-toe",
   "main": "/index.js",
   "devDependencies": {}
 }
